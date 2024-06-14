@@ -1,1 +1,1 @@
-This is a test index page.
+[.AP file format](./apformat.md) These files store all the interesting stuff.
